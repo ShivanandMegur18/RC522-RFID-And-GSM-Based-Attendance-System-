@@ -90,7 +90,7 @@ git clone https://github.com/ShivanandMegur18/RC522-RFID-And-GSM-Based-Attendanc
 Navigate to the project directory:
 
 ```bash
-cd rfid-gsm-attendance-system
+cd RC522-RFID-And-GSM-Based-Attendance-System
 ```
 
 Open the Arduino sketch located at:
@@ -127,28 +127,6 @@ For example, if your code uses the MFRC522 library, install the appropriate libr
 * Check whether the card is identified correctly.
 * Verify the attendance behavior implemented in the sketch.
 * Check whether the GSM module sends the configured SMS notification.
-
-## 📂 Repository Structure
-
-```text
-rfid-gsm-attendance-system/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── src/
-│   └── attendance_system.ino
-│
-├── docs/
-│   └── circuit_diagram.png
-│
-├── images/
-│   └── project_setup.jpg
-│
-└── examples/
-    └── rfid_test.ino
-```
 
 ## 🔮 Future Enhancements
 
